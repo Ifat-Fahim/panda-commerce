@@ -3,7 +3,7 @@ img {
 }
 
 .container {
-    margin-bottom: 40px;
+    margin-bottom: 60px;
 }
 
 .orange-bg {
@@ -68,4 +68,12 @@ img {
 .card {
     border: 0;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+#subscribe {
+    min-height: 300px;
+}
+
+#subcribe h6 {
+    color: gray;
 }
